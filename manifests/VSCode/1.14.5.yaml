@@ -1,0 +1,11 @@
+Id: Microsoft.VisualStudioCode.Windows
+Publisher: VoyagerX
+Name: Visual Studio Code
+Version: 0.4.18
+License: Microsoft © Microsoft 2020
+Homepage: https://code.visualstudio.com/
+InstallerType: exe
+Installers:
+  - Arch: x64
+    Url: https://code.visualstudio.com/docs/?dv=win
+    Sha256: E0DBBFA4B427A89B1376A5C09A87B6C2DE896514C5B517DE0025871248BE40ED
